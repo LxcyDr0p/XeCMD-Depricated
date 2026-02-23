@@ -1,10 +1,12 @@
+
+# XeCmd
 XeCMD is a hacked Xbox 360 RTE (Real Time Editing) JRPC/XBDM based command line tool, for use with RGH/JTAG/BU/DevKit Xbox 360 consoles. This is good for people who want 'minimalization'. This is the first of it's kind command line based RTE tool for Xbox 360 consoles. XeCMD is set and ready to go immediatly upon launch. You do not need to have your console set as default in Xbox 360 Neighborhood, as you can connect via the consoles local ip address so long as you have XBDM setup on your Xbox 360 console.
 
 I will be open sourcing XeCMD in the near future, as for now however, I want to wait until I am satisfied with the smoothness and the operational aspect of XeCMD, including adding many more commands in the future. Until then, for now XeCMD will not be open sourced at this current time.
 
 ![XeCMD V1.4.72-Beta](https://i.imgur.com/mhPJa4H.png)
 
-##Requirements##
+## Requirments
 - A Hacked Xbox 360/Devkit Xbox 360 Console
 - Visual Studio 2010 (Required For Xbox 360 Neighborhood) [https://archive.org/details/dev-microsoft-visual-studio-2005-2015-Pro/]
 - Xbox 360 SDK W/ Neighborhood (Latest SDK Version) [https://www.mediafire.com/file/oo761qxqbd6rczo/XBOX360+SDK+21256.8.exe]
