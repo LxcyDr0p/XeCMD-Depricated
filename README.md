@@ -1,5 +1,6 @@
-
 # XeCMD
+### First of its kind CLI based Xbox 360 RTE tool.
+
 
 ## What Is XeCMD?
 XeCMD is a hacked Xbox 360 RTE (Real Time Editing) JRPC/XBDM based command line tool, for use with RGH/JTAG/BU/DevKit Xbox 360 consoles. This is good for people who want 'minimalization'. This is the first of it's kind command line based RTE tool for Xbox 360 consoles. XeCMD is set and ready to go immediatly upon launch. You do not need to have your console set as default in Xbox 360 Neighborhood, as you can connect via the consoles local ip address so long as you have XBDM setup on your Xbox 360 console.
